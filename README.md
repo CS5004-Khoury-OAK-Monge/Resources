@@ -1,6 +1,6 @@
 # Resources
 
-Contains various class resources that will be added as the course progresses.
+Contains various resources that will be used as the course progresses.
 
 - [Resources](#resources)
   - [Integrated Development Environments (IDEs)](#integrated-development-environments-ides)
@@ -24,13 +24,13 @@ Contains various class resources that will be added as the course progresses.
 
 We do not have a required IDE for this class. Two recommended ones are IntelliJ and VS Code. We recommend you install them both, and try out which one you like best. Make sure to restart your computer after installing them, as they modify your path and environment variables.
 
-Different professors lean towards different IDEs, Dr. Lionelle leans towards VS Code for his own work, but does not require you to use it. Even the TAs will use different IDEs. The choice is yours. 
+Different professors lean towards different IDEs, Dr. Monge leans towards IntelliJ for his own work though has used VS Code as well. Even the TAs will use different IDEs. The choice is yours. 
 
 
 
 ### Recommended - Visual Studio Code (VS code)
 
-VS Code is another popular choice for Java development. It is a lightweight IDE that is easy to use and has many features that make it a great choice for Java development. Where IntelliJ IDEA focuses on a contained environment, VS Code focuses on module extensions for everything it does. As such, you will find there are more extensions. Due to this module based design along with it being completely free, VS Code has gained in popularity over the years. 
+VS Code is another popular choice for Java development. It is a lightweight IDE that is easy to use and has many features that make it a great choice for Java development. Where IntelliJ IDEA focuses on a contained environment, VS Code focuses on module extensions for everything it does. As such, you will find there are more extensions. Due to this module-based design along with it being completely free, VS Code has gained in popularity over the years. 
 
 
 
@@ -51,13 +51,13 @@ To find where to install extensions in VS Code, go to the extensions tab on the 
 
 ### IntelliJ IDEA
 
-IntelliJ IDEA is a popular IDE (integrated development environment) for Java development. It has many features that make it a great choice for Java development. However, it is also a very large development environment and can be overwhelming at first. For this class, we are not requiring *which* IDE you use, but we do require that you use an IDE that supports Java development. 
+IntelliJ IDEA is a popular IDE (integrated development environment) for Java development. It has many features that make it a great choice for Java development. However, it is also a very large development environment and can be overwhelming at first. 
 
-To install IntelliJ IDEA, while there is a community edition which is fine, you can also install the "Ultimate" edition using your student email  to setup a free license. To earn a free license go to [JetBrains Student License](https://www.jetbrains.com/community/education/#students) and follow the instructions. Make sure to use your student email.
+To install IntelliJ IDEA, while there is a community edition which is fine, you can also install the "Ultimate" edition using your student email  to setup a free license. To earn a free license go to [JetBrains Student Pack](https://www.jetbrains.com/community/education/#students) and follow the instructions. Make sure to use your student email.
 
 You can then download the ultimate edition from [JetBrains Download](https://www.jetbrains.com/idea/download/), and register it with your student account. 
 
-It is also a popular choice to use [JetBrains Toolbox](https://www.jetbrains.com/toolbox-app/) to manage your IDEs. If you use the toolbox, it is better to install the ultimate edition from the toolbox, as then it will be managed by the toolbox. 
+It is also a popular choice to use [JetBrains Toolbox](https://www.jetbrains.com/toolbox-app/) to manage your IDEs (if you plan to use other IDEs for other languages such as PyTorch for Python, CLion for C/C++, DataGrip for SQL, etc). If you use the toolbox, it is better to install the ultimate edition from the toolbox, as then it will be managed by the toolbox. 
 
 
 #### Plugins
